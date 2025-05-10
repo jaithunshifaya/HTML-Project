@@ -4,17 +4,17 @@ This is a basic HTML project that demonstrates how to create a simple web form. 
 
 ## 🧠 Features
 
-- HTML <form> with:
+- HTML with:
   - Text input for name and address
   - Number input for age
-  - Dropdown (<select>) for department selection
-- Submit button
-- Image displayed in the webpage (e.g., city view)
+  - Dropdown for department selection
+  - Submit button
+  - Image displayed in the webpage (e.g., city view)
 
 ## 📁 Files Included
 
-- index.html – Contains the HTML form
-- New York.jpeg – Background or banner image (uploaded)
+- index.html – Contains the HTML form  
+- New York.jpeg – Background or banner image  
 - README.md – This file
 
 ## 🚀 How to Use
@@ -22,6 +22,7 @@ This is a basic HTML project that demonstrates how to create a simple web form. 
 1. Clone this repository:
   
    git clone https://github.com/jaithunshifaya/HTML-Project.git
+
    
 2.Open the folder in any browser:
 
