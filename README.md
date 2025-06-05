@@ -30,11 +30,14 @@ Double-click index.html
 
 Or right-click and select "Open with browser"
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
+
 HTML5
 
-📚 Learning Purpose
+## 📚 Learning Purpose
+
 This project is part of my early HTML learning journey. It's focused on practicing form creation, input fields, and layout basics.
 
-🔗 Connect with Me
+## 🔗 Connect with Me
+
 https://www.linkedin.com/in/jaithun-shifaya03/
