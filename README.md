@@ -26,9 +26,9 @@ This is a basic HTML project that demonstrates how to create a simple web form. 
    
 2. Open the folder in any browser:
 
-Double-click index.html
+   Double-click index.html
 
-Or right-click and select "Open with browser"
+   Or right-click and select "Open with browser"
 
 ## 🛠️ Technologies Used
 
