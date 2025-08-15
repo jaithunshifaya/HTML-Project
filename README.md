@@ -24,7 +24,7 @@ This is a basic HTML project that demonstrates how to create a simple web form. 
    git clone https://github.com/jaithunshifaya/HTML-Project.git
 
    
-2.Open the folder in any browser:
+2. Open the folder in any browser:
 
 Double-click index.html
 
